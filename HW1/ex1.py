@@ -99,4 +99,4 @@ if __name__ == "__main__":
     # Save the rotated grayscale image
     save_image(img_gray_rotated, "images/lena_gray_rotated.jpg")
     # Show the images
-plt.show() 
+    plt.show() 
