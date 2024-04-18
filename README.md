@@ -36,11 +36,6 @@ eyes.
 - Video processing
 - Computer Vision
 
-## Course Structure
-- Lectures: The course will include lectures covering theoretical concepts and practical applications of image processing techniques.
-- Assignments: Students will be assigned programming assignments to implement and experiment with image processing algorithms.
-- Projects: Students will work on a final project applying image processing techniques to solve real-world problems or research topics.
-
 ## Resources
 - Giáo trình Xử lý ảnh – Nhà xuất bản Đại học Quốc Gia.
 - Textbook: “Digital Image Processing”, R. C. Gonzalez, R. E.
